@@ -1,0 +1,32 @@
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.exe
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.deps.json
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.runtimeconfig.json
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.pdb
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.csproj.GenerateResource.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.AssemblyInfo.cs
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\refint\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.pdb
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.genruntimeconfig.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora - Cientifica\obj\Debug\net8.0-windows\ref\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.exe
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.deps.json
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.runtimeconfig.json
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\bin\Debug\net8.0-windows\CalculadoraCientifica.pdb
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.csproj.GenerateResource.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.AssemblyInfo.cs
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\refint\CalculadoraCientifica.dll
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.pdb
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\CalculadoraCientifica.genruntimeconfig.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadora_Cientifica\obj\Debug\net8.0-windows\ref\CalculadoraCientifica.dll
