@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraCientifica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7425d97ab2e5064059f2ecd0f93b1f1b40c20f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraCientifica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraCientifica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

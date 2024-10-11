@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\miche\\Documents\\Visual Studio 2022\\Projects\\Calculadora_Cientifica - copia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A347D4FC-815F-468C-9030-4FB34D3057C6}|CalculadoraCientifica.csproj|C:\\Users\\miche\\Documents\\Visual Studio 2022\\Projects\\Calculadora_Cientifica - copia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A347D4FC-815F-468C-9030-4FB34D3057C6}|CalculadoraCientifica.csproj|c:\\users\\miche\\documents\\visual studio 2022\\projects\\calculadora_cientifica - copia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A347D4FC-815F-468C-9030-4FB34D3057C6}|CalculadoraCientifica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A347D4FC-815F-468C-9030-4FB34D3057C6}|CalculadoraCientifica.csproj|c:\\users\\miche\\documents\\visual studio 2022\\projects\\calculadora_cientifica - copia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A347D4FC-815F-468C-9030-4FB34D3057C6}|CalculadoraCientifica.csproj|C:\\Users\\miche\\Documents\\Visual Studio 2022\\Projects\\Calculadora_Cientifica - copia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A347D4FC-815F-468C-9030-4FB34D3057C6}|CalculadoraCientifica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAKkBAAAAAAAAAIAwwK0BAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T03:32:30.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T03:32:30.15Z"
             }
           ]
         }
